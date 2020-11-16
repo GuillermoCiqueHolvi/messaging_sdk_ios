@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "MessagingSDK",
+    name: "ZendeskMessagingSDK",
     products: [
         .library(name: "MessagingSDK", targets: ["MessagingSDK"])
     ],
